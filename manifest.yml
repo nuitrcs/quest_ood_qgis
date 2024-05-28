@@ -5,7 +5,7 @@ category: Interactive Apps
 subcategory: GUIs
 role: batch_connect
 description: |
-  This app will launch the [QGIS] GUI on the [Quest cluster].
+  This app will launch the [QGIS] GUI in a virtual desktop on [Quest].
 
-  [QGIS]: https://services.northwestern.edu/TDClient/30/Portal/KB/ArticleDet?ID=2234
+  [QGIS]: https://qgis.org/en/site/
   [Quest cluster]: https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/index.html
