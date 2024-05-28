@@ -1,3 +1,3 @@
-# Batch Connect - Quest App Template
+# Batch Connect - QGIS on Quest OnDemand
 
-A Batch Connect app designed for Quest OnDemand that launches XXXX.
+A Batch Connect app designed for Quest OnDemand that launches QGIS Desktop.
