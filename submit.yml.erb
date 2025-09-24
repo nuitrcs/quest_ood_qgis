@@ -11,7 +11,7 @@ batch_connect:
   websockify_cmd: '/usr/bin/websockify'
   script_wrapper: |
     module purge
-    module load singularity
+    module load singularity/3.8.1
     cat << "CTRSCRIPT" > container.sh
     export PATH="$PATH:/opt/TurboVNC/bin"
     %s
